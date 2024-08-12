@@ -3,3 +3,4 @@
 P1-B - tar -xzf challenges.tar.gz
 P2-B - cd challanges
 P3-B - ls
+P4-B - mkdir foo
