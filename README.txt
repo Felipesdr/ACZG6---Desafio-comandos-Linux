@@ -6,3 +6,4 @@ p3-b - ls
 p4-b - mkdir foo
 p5-b - mkdir -p foo/bar/1/2/3
 p6-b - rm -r foo
+p7-b - echo "Hello World"
